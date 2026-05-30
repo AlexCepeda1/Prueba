@@ -3,3 +3,5 @@ soy el código inicial. xd
 Esta es una modificacion desde el documento original. :)
 
 Soy una linea desde github
+
+Esta es una linea que se genero desde el repositorio remoto en la rama de diseño
